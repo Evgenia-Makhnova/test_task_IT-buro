@@ -1,0 +1,70 @@
+body {
+	background-color: #1ba0ef
+}
+
+.cloud {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+}
+.wrapper {
+	position: relative;
+	margin: 0 auto;
+	width: 800px;
+}
+h1{
+	position: absolute;
+	margin-top: 97px;
+	color: #ffffff;
+	font: 16pt Arial regular;
+
+}
+
+h6{
+	position: absolute;
+	margin-top: 52px;
+	color: #ffffff;
+	font: 10pt Arial regular;
+}
+h3{
+	position: absolute;
+	margin-top: 152px;
+	color: #ffffff;
+	font: 10pt Arial regular;
+}
+h4{
+	position: absolute;
+	margin-top: 214px;
+	color: #ffffff;
+	font: 9pt Arial regular;
+}
+h5{
+	position: absolute;
+	margin-top: 214px;
+	left: 400px;
+	color: #ffffff;
+	font: 9pt Arial regular;
+}
+.logo{
+	position: absolute;
+	margin-top: 361px;
+
+}
+h7{
+	position: absolute;
+	margin-top: 361px;
+	left: 75px;
+	color: #ffffff;
+	font: 10pt Arial regular;
+}
+.header{
+	position: absolute;
+	margin-top: 593px;
+
+}
+h8{
+	position: absolute;
+	margin-top: 625px;
+	color: #ffffff;
+	font: 9pt Arial regular;
+}
